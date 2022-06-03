@@ -15,7 +15,7 @@ CommonDriver cmnDriver;
 	
 	AmazonHomepage homepage;
 	
-	String url = "https://www.amazon.in";
+	String url = "https://www.amazon.com";
 	
 	WebDriver driver;
 	
