@@ -1,4 +1,4 @@
-# Amazon-Test-Automation
+# Amazon Test Automation
 
 June 2021
 
